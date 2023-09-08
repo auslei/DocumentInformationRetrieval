@@ -1,1 +1,1 @@
-# DocumentInformationRetrieval
+# Document Information Retrieval
